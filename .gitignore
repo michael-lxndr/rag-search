@@ -2,8 +2,4 @@
 tmp/
 
 
-
-tmp/*.json
-tmp/*.csv
-
-*.csv
+*csv
